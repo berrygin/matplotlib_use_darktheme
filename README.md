@@ -15,4 +15,4 @@ colors_d = {
 }
 ```
 
-![darktheme]('./sample.png')
+![darktheme](sample.png)
